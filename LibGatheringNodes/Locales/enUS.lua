@@ -94,7 +94,9 @@ LibStub("LibGatheringNodes-1.0").enUS = {
     ["Elethium Deposit"]                = 171833, -- Elethium Ore
     ["Rich Solenium Deposit"]           = 171829, -- Solenium Ore
     ["Rich Laestrite Deposit"]          = 171828, -- Laestrite Ore
-    --["Luminous Solenium Deposit"]     = ????
+    ["Oxxein Deposit"]                  = 171830, -- Oxxein Ore
+    ["Sinvyr Deposit"]                  = 171832, -- Sinvyr Ore
+    ["Phaedrum Deposit"]                = 171831, -- Phaedrum Ore
     
 	
 	-- Herbs
@@ -189,7 +191,7 @@ LibStub("LibGatheringNodes-1.0").enUS = {
 	["Anchor Weed"]                     = 152510,
 	["Riverbud"]                        = 152505,
 	["Sea Stalks"]                      = 152511, -- Sea Stalk
-	["Siren's Sting"]                   = 152509,  -- Siren's Pollen	
+	["Siren's Sting"]                   = 152509, -- Siren's Pollen	
 	["Star Moss"]                       = 152506,	
 	["Winter's Kiss"]                   = 152508,
     ["Zin'anthid"]                      = 168487,
@@ -199,4 +201,6 @@ LibStub("LibGatheringNodes-1.0").enUS = {
     ["Nightshade"]                      = 171315,
     ["Rising Glory"]                    = 168586,
     ["Vigil's Torch"]                   = 170554,
+    ["Widowbloom"]                      = 168583,
+    ["Marrowroot"]                      = 168589,
 }
